@@ -1,0 +1,127 @@
+{
+  "lastUpdated": "2026-07-06T00:00:00Z",
+  "source": "awardwallet.com + frequentmiler.com + point.me + upgradedpoints.com + nerdwallet.com + 10xtravel.com + travel-on-points.com (Mon/Thu refresh; ≥3-source = auto-publish, 2 = review)",
+  "bonuses": [
+    {
+      "id": "ultimateRewards-virgin-atlantic-flying-club-2026-07-14",
+      "sourceProgram": "ultimateRewards",
+      "destinationPartnerId": "virgin-atlantic-flying-club",
+      "bonusPercentage": 30,
+      "effectiveRatio": "1:1.3",
+      "startDate": "2026-06-09",
+      "endDate": "2026-07-14",
+      "conditions": null,
+      "isTargeted": false,
+      "sourceUrls": [
+        "https://awardwallet.com/news/credit-card-transfer-bonuses/",
+        "https://frequentmiler.com/current-point-transfer-bonuses/",
+        "https://point.me/insights/current-transfer-bonuses",
+        "https://www.nerdwallet.com/travel/learn/credit-card-transfer-bonuses",
+        "https://10xtravel.com/transfer-bonuses/",
+        "https://travel-on-points.com/current-point-transfer-bonuses/"
+      ],
+      "verifiedDate": "2026-07-06"
+    },
+    {
+      "id": "membershipRewards-hilton-honors-2026-07-14",
+      "sourceProgram": "membershipRewards",
+      "destinationPartnerId": "hilton-honors",
+      "bonusPercentage": 20,
+      "effectiveRatio": "1:2.4",
+      "startDate": "2026-07-01",
+      "endDate": "2026-07-14",
+      "conditions": "Membership Rewards transfer to Hilton at a 1:2 base ratio; the 20% bonus lifts it to 1:2.4.",
+      "isTargeted": false,
+      "sourceUrls": [
+        "https://awardwallet.com/news/credit-card-transfer-bonuses/",
+        "https://frequentmiler.com/current-point-transfer-bonuses/",
+        "https://point.me/insights/current-transfer-bonuses",
+        "https://upgradedpoints.com/news/current-credit-card-transfer-bonuses",
+        "https://10xtravel.com/transfer-bonuses/",
+        "https://travel-on-points.com/current-point-transfer-bonuses/"
+      ],
+      "verifiedDate": "2026-07-06"
+    },
+    {
+      "id": "membershipRewards-avianca-lifemiles-2026-07-15",
+      "sourceProgram": "membershipRewards",
+      "destinationPartnerId": "avianca-lifemiles",
+      "bonusPercentage": 15,
+      "effectiveRatio": "1:1.15",
+      "startDate": "2026-06-15",
+      "endDate": "2026-07-15",
+      "conditions": "Bonus is credited on the Avianca LifeMiles side and is not displayed in the Amex transfer interface.",
+      "isTargeted": false,
+      "sourceUrls": [
+        "https://awardwallet.com/news/credit-card-transfer-bonuses/",
+        "https://frequentmiler.com/current-point-transfer-bonuses/",
+        "https://upgradedpoints.com/news/current-credit-card-transfer-bonuses",
+        "https://www.nerdwallet.com/travel/learn/credit-card-transfer-bonuses",
+        "https://10xtravel.com/transfer-bonuses/",
+        "https://travel-on-points.com/current-point-transfer-bonuses/"
+      ],
+      "verifiedDate": "2026-07-06"
+    },
+    {
+      "id": "thankYouPoints-accor-live-limitless-2026-07-18",
+      "sourceProgram": "thankYouPoints",
+      "destinationPartnerId": "accor-live-limitless",
+      "bonusPercentage": 50,
+      "effectiveRatio": "2:1.5",
+      "startDate": "2026-06-14",
+      "endDate": "2026-07-18",
+      "conditions": "ThankYou Points transfer to Accor Live Limitless at a 2:1 base ratio; the 50% bonus lifts it to 2:1.5 (1,000 points → 750 Accor).",
+      "isTargeted": false,
+      "sourceUrls": [
+        "https://awardwallet.com/news/credit-card-transfer-bonuses/",
+        "https://frequentmiler.com/current-point-transfer-bonuses/",
+        "https://point.me/insights/current-transfer-bonuses",
+        "https://www.nerdwallet.com/travel/learn/credit-card-transfer-bonuses",
+        "https://10xtravel.com/transfer-bonuses/",
+        "https://travel-on-points.com/current-point-transfer-bonuses/"
+      ],
+      "verifiedDate": "2026-07-06"
+    },
+    {
+      "id": "membershipRewards-virgin-atlantic-flying-club-2026-07-31",
+      "sourceProgram": "membershipRewards",
+      "destinationPartnerId": "virgin-atlantic-flying-club",
+      "bonusPercentage": 30,
+      "effectiveRatio": "1:1.3",
+      "startDate": "2026-07-01",
+      "endDate": "2026-07-31",
+      "conditions": null,
+      "isTargeted": false,
+      "sourceUrls": [
+        "https://awardwallet.com/news/credit-card-transfer-bonuses/",
+        "https://frequentmiler.com/current-point-transfer-bonuses/",
+        "https://point.me/insights/current-transfer-bonuses",
+        "https://upgradedpoints.com/news/current-credit-card-transfer-bonuses",
+        "https://10xtravel.com/transfer-bonuses/",
+        "https://travel-on-points.com/current-point-transfer-bonuses/"
+      ],
+      "verifiedDate": "2026-07-06"
+    },
+    {
+      "id": "ventureMiles-eva-air-infinity-mileagelands-2026-07-31",
+      "sourceProgram": "ventureMiles",
+      "destinationPartnerId": "eva-air-infinity-mileagelands",
+      "bonusPercentage": 30,
+      "effectiveRatio": "1:0.975",
+      "startDate": "2026-07-01",
+      "endDate": "2026-07-31",
+      "conditions": "Capital One transfers to EVA Air at a 2:1.5 base ratio; the 30% bonus lifts it to roughly 1,000 → 975. Minimum 1,000 miles per transfer.",
+      "isTargeted": false,
+      "sourceUrls": [
+        "https://awardwallet.com/news/credit-card-transfer-bonuses/",
+        "https://frequentmiler.com/current-point-transfer-bonuses/",
+        "https://point.me/insights/current-transfer-bonuses",
+        "https://upgradedpoints.com/news/current-credit-card-transfer-bonuses",
+        "https://www.nerdwallet.com/travel/learn/credit-card-transfer-bonuses",
+        "https://10xtravel.com/transfer-bonuses/",
+        "https://travel-on-points.com/current-point-transfer-bonuses/"
+      ],
+      "verifiedDate": "2026-07-06"
+    }
+  ]
+}
