@@ -1,86 +1,27 @@
 {
-  "lastUpdated": "2026-07-06T00:00:00Z",
-  "source": "awardwallet.com + frequentmiler.com + point.me + upgradedpoints.com + nerdwallet.com + 10xtravel.com + travel-on-points.com (Mon/Thu refresh; ≥4-source = auto-publish, 2-3 = review)",
+  "lastUpdated": "2026-07-26T00:00:00Z",
+  "source": "awardwallet.com + frequentmiler.com + point.me + upgradedpoints.com + nerdwallet.com + 10xtravel.com + travel-on-points.com (Mon/Thu refresh; ≥4-source = auto-publish direct to main, 2-3 = review)",
   "bonuses": [
     {
-      "id": "ultimateRewards-virgin-atlantic-flying-club-2026-07-14",
+      "id": "ultimateRewards-ihg-one-rewards-2026-07-30",
       "sourceProgram": "ultimateRewards",
-      "destinationPartnerId": "virgin-atlantic-flying-club",
-      "bonusPercentage": 30,
-      "effectiveRatio": "1:1.3",
-      "startDate": "2026-06-09",
-      "endDate": "2026-07-14",
-      "conditions": null,
-      "isTargeted": false,
-      "sourceUrls": [
-        "https://awardwallet.com/news/credit-card-transfer-bonuses/",
-        "https://frequentmiler.com/current-point-transfer-bonuses/",
-        "https://point.me/insights/current-transfer-bonuses",
-        "https://www.nerdwallet.com/travel/learn/credit-card-transfer-bonuses",
-        "https://10xtravel.com/transfer-bonuses/",
-        "https://travel-on-points.com/current-point-transfer-bonuses/"
-      ],
-      "verifiedDate": "2026-07-06"
-    },
-    {
-      "id": "membershipRewards-hilton-honors-2026-07-14",
-      "sourceProgram": "membershipRewards",
-      "destinationPartnerId": "hilton-honors",
-      "bonusPercentage": 20,
-      "effectiveRatio": "1:2.4",
-      "startDate": "2026-07-01",
-      "endDate": "2026-07-14",
-      "conditions": "Membership Rewards transfer to Hilton at a 1:2 base ratio; the 20% bonus lifts it to 1:2.4.",
+      "destinationPartnerId": "ihg-one-rewards",
+      "bonusPercentage": 100,
+      "effectiveRatio": "1:2",
+      "startDate": "2026-07-15",
+      "endDate": "2026-07-30",
+      "conditions": "Chase Ultimate Rewards transfer to IHG at a 1:1 base ratio; the 100% bonus lifts it to 1:2 (1,000 points → 2,000 IHG). Steps down to a 70% bonus from Jul 31 through Aug 31.",
       "isTargeted": false,
       "sourceUrls": [
         "https://awardwallet.com/news/credit-card-transfer-bonuses/",
         "https://frequentmiler.com/current-point-transfer-bonuses/",
         "https://point.me/insights/current-transfer-bonuses",
         "https://upgradedpoints.com/news/current-credit-card-transfer-bonuses",
-        "https://10xtravel.com/transfer-bonuses/",
-        "https://travel-on-points.com/current-point-transfer-bonuses/"
-      ],
-      "verifiedDate": "2026-07-06"
-    },
-    {
-      "id": "membershipRewards-avianca-lifemiles-2026-07-15",
-      "sourceProgram": "membershipRewards",
-      "destinationPartnerId": "avianca-lifemiles",
-      "bonusPercentage": 15,
-      "effectiveRatio": "1:1.15",
-      "startDate": "2026-06-15",
-      "endDate": "2026-07-15",
-      "conditions": "Bonus is credited on the Avianca LifeMiles side and is not displayed in the Amex transfer interface.",
-      "isTargeted": false,
-      "sourceUrls": [
-        "https://awardwallet.com/news/credit-card-transfer-bonuses/",
-        "https://frequentmiler.com/current-point-transfer-bonuses/",
-        "https://upgradedpoints.com/news/current-credit-card-transfer-bonuses",
         "https://www.nerdwallet.com/travel/learn/credit-card-transfer-bonuses",
         "https://10xtravel.com/transfer-bonuses/",
         "https://travel-on-points.com/current-point-transfer-bonuses/"
       ],
-      "verifiedDate": "2026-07-06"
-    },
-    {
-      "id": "thankYouPoints-accor-live-limitless-2026-07-18",
-      "sourceProgram": "thankYouPoints",
-      "destinationPartnerId": "accor-live-limitless",
-      "bonusPercentage": 50,
-      "effectiveRatio": "2:1.5",
-      "startDate": "2026-06-14",
-      "endDate": "2026-07-18",
-      "conditions": "ThankYou Points transfer to Accor Live Limitless at a 2:1 base ratio; the 50% bonus lifts it to 2:1.5 (1,000 points → 750 Accor).",
-      "isTargeted": false,
-      "sourceUrls": [
-        "https://awardwallet.com/news/credit-card-transfer-bonuses/",
-        "https://frequentmiler.com/current-point-transfer-bonuses/",
-        "https://point.me/insights/current-transfer-bonuses",
-        "https://www.nerdwallet.com/travel/learn/credit-card-transfer-bonuses",
-        "https://10xtravel.com/transfer-bonuses/",
-        "https://travel-on-points.com/current-point-transfer-bonuses/"
-      ],
-      "verifiedDate": "2026-07-06"
+      "verifiedDate": "2026-07-26"
     },
     {
       "id": "membershipRewards-virgin-atlantic-flying-club-2026-07-31",
@@ -97,10 +38,11 @@
         "https://frequentmiler.com/current-point-transfer-bonuses/",
         "https://point.me/insights/current-transfer-bonuses",
         "https://upgradedpoints.com/news/current-credit-card-transfer-bonuses",
+        "https://www.nerdwallet.com/travel/learn/credit-card-transfer-bonuses",
         "https://10xtravel.com/transfer-bonuses/",
         "https://travel-on-points.com/current-point-transfer-bonuses/"
       ],
-      "verifiedDate": "2026-07-06"
+      "verifiedDate": "2026-07-26"
     },
     {
       "id": "ventureMiles-eva-air-infinity-mileagelands-2026-07-31",
@@ -121,7 +63,48 @@
         "https://10xtravel.com/transfer-bonuses/",
         "https://travel-on-points.com/current-point-transfer-bonuses/"
       ],
-      "verifiedDate": "2026-07-06"
+      "verifiedDate": "2026-07-26"
+    },
+    {
+      "id": "thankYouPoints-air-france-klm-flying-blue-2026-08-22",
+      "sourceProgram": "thankYouPoints",
+      "destinationPartnerId": "air-france-klm-flying-blue",
+      "bonusPercentage": 20,
+      "effectiveRatio": "1:1.2",
+      "startDate": "2026-07-19",
+      "endDate": "2026-08-22",
+      "conditions": "Citi ThankYou Points transfer to Flying Blue at a 1:1 base ratio; the 20% bonus lifts it to 1:1.2 (1,000 points → 1,200 Flying Blue miles). Applies to the Strata Elite, Strata Premier, Prestige and AT&T Access More cards; select no-annual-fee Citi cards transfer at a lower base rate. Minimum 1,000 points per transfer; ends 11:59pm ET Aug 22.",
+      "isTargeted": false,
+      "sourceUrls": [
+        "https://awardwallet.com/news/credit-card-transfer-bonuses/",
+        "https://frequentmiler.com/current-point-transfer-bonuses/",
+        "https://point.me/insights/current-transfer-bonuses",
+        "https://upgradedpoints.com/news/current-credit-card-transfer-bonuses",
+        "https://www.nerdwallet.com/travel/learn/credit-card-transfer-bonuses",
+        "https://10xtravel.com/transfer-bonuses/",
+        "https://travel-on-points.com/current-point-transfer-bonuses/"
+      ],
+      "verifiedDate": "2026-07-26"
+    },
+    {
+      "id": "ultimateRewards-ihg-one-rewards-2026-08-31",
+      "sourceProgram": "ultimateRewards",
+      "destinationPartnerId": "ihg-one-rewards",
+      "bonusPercentage": 70,
+      "effectiveRatio": "1:1.7",
+      "startDate": "2026-07-31",
+      "endDate": "2026-08-31",
+      "conditions": "Follow-on step-down from the 100% bonus that ends Jul 30. Chase Ultimate Rewards transfer to IHG at a 1:1 base ratio; the 70% bonus lifts it to 1:1.7. Upcoming — the app surfaces it automatically once it starts on Jul 31.",
+      "isTargeted": false,
+      "sourceUrls": [
+        "https://awardwallet.com/news/credit-card-transfer-bonuses/",
+        "https://point.me/insights/current-transfer-bonuses",
+        "https://upgradedpoints.com/news/current-credit-card-transfer-bonuses",
+        "https://www.nerdwallet.com/travel/learn/credit-card-transfer-bonuses",
+        "https://10xtravel.com/transfer-bonuses/",
+        "https://travel-on-points.com/current-point-transfer-bonuses/"
+      ],
+      "verifiedDate": "2026-07-26"
     }
   ]
 }
