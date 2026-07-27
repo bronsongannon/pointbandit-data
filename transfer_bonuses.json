@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-26T00:00:00Z",
+  "lastUpdated": "2026-07-27T00:00:00Z",
   "source": "awardwallet.com + frequentmiler.com + point.me + upgradedpoints.com + nerdwallet.com + 10xtravel.com + travel-on-points.com (Mon/Thu refresh; ≥4-source = auto-publish direct to main, 2-3 = review)",
   "bonuses": [
     {
@@ -21,7 +21,7 @@
         "https://10xtravel.com/transfer-bonuses/",
         "https://travel-on-points.com/current-point-transfer-bonuses/"
       ],
-      "verifiedDate": "2026-07-26"
+      "verifiedDate": "2026-07-27"
     },
     {
       "id": "membershipRewards-virgin-atlantic-flying-club-2026-07-31",
@@ -42,7 +42,7 @@
         "https://10xtravel.com/transfer-bonuses/",
         "https://travel-on-points.com/current-point-transfer-bonuses/"
       ],
-      "verifiedDate": "2026-07-26"
+      "verifiedDate": "2026-07-27"
     },
     {
       "id": "ventureMiles-eva-air-infinity-mileagelands-2026-07-31",
@@ -63,7 +63,7 @@
         "https://10xtravel.com/transfer-bonuses/",
         "https://travel-on-points.com/current-point-transfer-bonuses/"
       ],
-      "verifiedDate": "2026-07-26"
+      "verifiedDate": "2026-07-27"
     },
     {
       "id": "thankYouPoints-air-france-klm-flying-blue-2026-08-22",
@@ -84,7 +84,7 @@
         "https://10xtravel.com/transfer-bonuses/",
         "https://travel-on-points.com/current-point-transfer-bonuses/"
       ],
-      "verifiedDate": "2026-07-26"
+      "verifiedDate": "2026-07-27"
     },
     {
       "id": "ultimateRewards-ihg-one-rewards-2026-08-31",
@@ -104,7 +104,7 @@
         "https://10xtravel.com/transfer-bonuses/",
         "https://travel-on-points.com/current-point-transfer-bonuses/"
       ],
-      "verifiedDate": "2026-07-26"
+      "verifiedDate": "2026-07-27"
     }
   ]
 }
