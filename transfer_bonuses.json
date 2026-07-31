@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-27T00:00:00Z",
+  "lastUpdated": "2026-07-30T00:00:00Z",
   "source": "awardwallet.com + frequentmiler.com + point.me + upgradedpoints.com + nerdwallet.com + 10xtravel.com + travel-on-points.com (Mon/Thu refresh; ≥4-source = auto-publish direct to main, 2-3 = review)",
   "bonuses": [
     {
@@ -10,7 +10,7 @@
       "effectiveRatio": "1:2",
       "startDate": "2026-07-15",
       "endDate": "2026-07-30",
-      "conditions": "Chase Ultimate Rewards transfer to IHG at a 1:1 base ratio; the 100% bonus lifts it to 1:2 (1,000 points → 2,000 IHG). Steps down to a 70% bonus from Jul 31 through Aug 31.",
+      "conditions": "Chase Ultimate Rewards transfer to IHG at a 1:1 base ratio; the 100% bonus lifts it to 1:2 (1,000 points → 2,000 IHG). Final day — steps down to a 70% bonus from Jul 31 through Aug 31.",
       "isTargeted": false,
       "sourceUrls": [
         "https://awardwallet.com/news/credit-card-transfer-bonuses/",
@@ -21,7 +21,7 @@
         "https://10xtravel.com/transfer-bonuses/",
         "https://travel-on-points.com/current-point-transfer-bonuses/"
       ],
-      "verifiedDate": "2026-07-27"
+      "verifiedDate": "2026-07-30"
     },
     {
       "id": "membershipRewards-virgin-atlantic-flying-club-2026-07-31",
@@ -42,7 +42,7 @@
         "https://10xtravel.com/transfer-bonuses/",
         "https://travel-on-points.com/current-point-transfer-bonuses/"
       ],
-      "verifiedDate": "2026-07-27"
+      "verifiedDate": "2026-07-30"
     },
     {
       "id": "ventureMiles-eva-air-infinity-mileagelands-2026-07-31",
@@ -63,7 +63,7 @@
         "https://10xtravel.com/transfer-bonuses/",
         "https://travel-on-points.com/current-point-transfer-bonuses/"
       ],
-      "verifiedDate": "2026-07-27"
+      "verifiedDate": "2026-07-30"
     },
     {
       "id": "thankYouPoints-air-france-klm-flying-blue-2026-08-22",
@@ -84,7 +84,7 @@
         "https://10xtravel.com/transfer-bonuses/",
         "https://travel-on-points.com/current-point-transfer-bonuses/"
       ],
-      "verifiedDate": "2026-07-27"
+      "verifiedDate": "2026-07-30"
     },
     {
       "id": "ultimateRewards-ihg-one-rewards-2026-08-31",
@@ -94,17 +94,16 @@
       "effectiveRatio": "1:1.7",
       "startDate": "2026-07-31",
       "endDate": "2026-08-31",
-      "conditions": "Follow-on step-down from the 100% bonus that ends Jul 30. Chase Ultimate Rewards transfer to IHG at a 1:1 base ratio; the 70% bonus lifts it to 1:1.7. Upcoming — the app surfaces it automatically once it starts on Jul 31.",
+      "conditions": "Step-down from the 100% bonus that ends Jul 30. Chase Ultimate Rewards transfer to IHG at a 1:1 base ratio; the 70% bonus lifts it to 1:1.7. Starts Jul 31 — the app surfaces it automatically once it opens.",
       "isTargeted": false,
       "sourceUrls": [
         "https://awardwallet.com/news/credit-card-transfer-bonuses/",
         "https://point.me/insights/current-transfer-bonuses",
         "https://upgradedpoints.com/news/current-credit-card-transfer-bonuses",
         "https://www.nerdwallet.com/travel/learn/credit-card-transfer-bonuses",
-        "https://10xtravel.com/transfer-bonuses/",
-        "https://travel-on-points.com/current-point-transfer-bonuses/"
+        "https://10xtravel.com/transfer-bonuses/"
       ],
-      "verifiedDate": "2026-07-27"
+      "verifiedDate": "2026-07-30"
     }
   ]
 }
