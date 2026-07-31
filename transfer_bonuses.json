@@ -104,6 +104,59 @@
         "https://10xtravel.com/transfer-bonuses/"
       ],
       "verifiedDate": "2026-07-30"
+    },
+    {
+      "id": "thankYouPoints-cathay-asia-miles-2026-08-28",
+      "sourceProgram": "thankYouPoints",
+      "destinationPartnerId": "cathay-asia-miles",
+      "bonusPercentage": 10,
+      "effectiveRatio": "1:1.1",
+      "startDate": "2026-07-27",
+      "endDate": "2026-08-28",
+      "conditions": "Registration is required before your first transfer. Citi ThankYou Points transfer to Asia Miles at a 1:1 base ratio; the 10% bonus lifts it to 1:1.1. The bonus is capped at 10,000 bonus miles per member across all participating partners combined, so the most you can earn is on about 100,000 points transferred. Bonus miles post roughly 12 weeks after the base miles credit. Ends 11:59pm PT Aug 28.",
+      "isTargeted": false,
+      "sourceUrls": [
+        "https://awardwallet.com/news/credit-card-transfer-bonuses/",
+        "https://frequentmiler.com/get-a-10-bonus-when-transferring-bank-or-hotel-points-to-cathay-pacific-asia-miles/",
+        "https://upgradedpoints.com/news/cathay-pacific-transfer-bonus/",
+        "https://travel-on-points.com/current-point-transfer-bonuses/"
+      ],
+      "verifiedDate": "2026-07-30"
+    },
+    {
+      "id": "ventureMiles-cathay-asia-miles-2026-08-28",
+      "sourceProgram": "ventureMiles",
+      "destinationPartnerId": "cathay-asia-miles",
+      "bonusPercentage": 10,
+      "effectiveRatio": "1:1.1",
+      "startDate": "2026-07-27",
+      "endDate": "2026-08-28",
+      "conditions": "Registration is required before your first transfer. Capital One miles transfer to Asia Miles at a 1:1 base ratio; the 10% bonus lifts it to 1:1.1. The bonus is capped at 10,000 bonus miles per member across all participating partners combined, so the most you can earn is on about 100,000 miles transferred. Bonus miles post roughly 12 weeks after the base miles credit. Ends 11:59pm PT Aug 28.",
+      "isTargeted": false,
+      "sourceUrls": [
+        "https://awardwallet.com/news/credit-card-transfer-bonuses/",
+        "https://frequentmiler.com/get-a-10-bonus-when-transferring-bank-or-hotel-points-to-cathay-pacific-asia-miles/",
+        "https://upgradedpoints.com/news/cathay-pacific-transfer-bonus/",
+        "https://travel-on-points.com/current-point-transfer-bonuses/"
+      ],
+      "verifiedDate": "2026-07-30"
+    },
+    {
+      "id": "biltPoints-cathay-asia-miles-2026-08-28",
+      "sourceProgram": "biltPoints",
+      "destinationPartnerId": "cathay-asia-miles",
+      "bonusPercentage": 10,
+      "effectiveRatio": "1:1.1",
+      "startDate": "2026-07-27",
+      "endDate": "2026-08-28",
+      "conditions": "Registration is required before your first transfer. Bilt Points transfer to Asia Miles at a 1:1 base ratio; the 10% bonus lifts it to 1:1.1. The bonus is capped at 10,000 bonus miles per member across all participating partners combined, so the most you can earn is on about 100,000 points transferred. Bonus miles post roughly 12 weeks after the base miles credit. Ends 11:59pm PT Aug 28.",
+      "isTargeted": false,
+      "sourceUrls": [
+        "https://frequentmiler.com/get-a-10-bonus-when-transferring-bank-or-hotel-points-to-cathay-pacific-asia-miles/",
+        "https://upgradedpoints.com/news/cathay-pacific-transfer-bonus/",
+        "https://travel-on-points.com/current-point-transfer-bonuses/"
+      ],
+      "verifiedDate": "2026-07-30"
     }
   ]
 }
