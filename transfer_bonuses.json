@@ -136,6 +136,24 @@
         "https://travel-on-points.com/current-point-transfer-bonuses/"
       ],
       "verifiedDate": "2026-08-03"
+    },
+    {
+      "id": "thankYouPoints-turkish-miles-and-smiles-2026-08-31",
+      "sourceProgram": "thankYouPoints",
+      "destinationPartnerId": "turkish-miles-and-smiles",
+      "bonusPercentage": 40,
+      "effectiveRatio": "1:1.4",
+      "startDate": "2026-08-01",
+      "endDate": "2026-08-31",
+      "conditions": "Citi ThankYou Points transfer to Turkish Miles&Smiles at a 1:1 base ratio; the 40% bonus lifts it to 1:1.4 (1,000 points → 1,400 miles). The promotion is run by Turkish Airlines, not Citi, so it does not appear on the Citi transfer page. No registration required. Capped at 50,000 bonus miles per member (reached at 125,000 points transferred). Bonus miles are processed by Turkish after the transfer posts and credit after the campaign ends Aug 31.",
+      "isTargeted": false,
+      "sourceUrls": [
+        "https://frequentmiler.com/current-point-transfer-bonuses/",
+        "https://upgradedpoints.com/news/current-credit-card-transfer-bonuses",
+        "https://www.nerdwallet.com/travel/learn/credit-card-transfer-bonuses",
+        "https://travel-on-points.com/current-point-transfer-bonuses/"
+      ],
+      "verifiedDate": "2026-08-03"
     }
   ]
 }
