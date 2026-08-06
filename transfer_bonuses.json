@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-03T00:00:00Z",
+  "lastUpdated": "2026-08-06T00:00:00Z",
   "source": "awardwallet.com + frequentmiler.com + point.me + upgradedpoints.com + nerdwallet.com + 10xtravel.com + travel-on-points.com (Mon/Thu refresh; ≥4-source = auto-publish direct to main, 2-3 = review)",
   "bonuses": [
     {
@@ -21,7 +21,7 @@
         "https://10xtravel.com/transfer-bonuses/",
         "https://travel-on-points.com/current-point-transfer-bonuses/"
       ],
-      "verifiedDate": "2026-08-03"
+      "verifiedDate": "2026-08-06"
     },
     {
       "id": "ultimateRewards-ihg-one-rewards-2026-08-31",
@@ -42,7 +42,7 @@
         "https://10xtravel.com/transfer-bonuses/",
         "https://travel-on-points.com/current-point-transfer-bonuses/"
       ],
-      "verifiedDate": "2026-08-03"
+      "verifiedDate": "2026-08-06"
     },
     {
       "id": "ventureMiles-avianca-lifemiles-2026-08-31",
@@ -63,7 +63,7 @@
         "https://10xtravel.com/transfer-bonuses/",
         "https://travel-on-points.com/current-point-transfer-bonuses/"
       ],
-      "verifiedDate": "2026-08-03"
+      "verifiedDate": "2026-08-06"
     },
     {
       "id": "membershipRewards-british-airways-avios-2026-09-27",
@@ -80,9 +80,10 @@
         "https://point.me/insights/current-transfer-bonuses",
         "https://upgradedpoints.com/news/current-credit-card-transfer-bonuses",
         "https://www.nerdwallet.com/travel/learn/credit-card-transfer-bonuses",
-        "https://10xtravel.com/transfer-bonuses/"
+        "https://10xtravel.com/transfer-bonuses/",
+        "https://travel-on-points.com/current-point-transfer-bonuses/"
       ],
-      "verifiedDate": "2026-08-03"
+      "verifiedDate": "2026-08-06"
     },
     {
       "id": "thankYouPoints-cathay-asia-miles-2026-08-28",
@@ -100,7 +101,7 @@
         "https://upgradedpoints.com/news/cathay-pacific-transfer-bonus/",
         "https://travel-on-points.com/current-point-transfer-bonuses/"
       ],
-      "verifiedDate": "2026-08-03"
+      "verifiedDate": "2026-08-06"
     },
     {
       "id": "ventureMiles-cathay-asia-miles-2026-08-28",
@@ -118,7 +119,7 @@
         "https://upgradedpoints.com/news/cathay-pacific-transfer-bonus/",
         "https://travel-on-points.com/current-point-transfer-bonuses/"
       ],
-      "verifiedDate": "2026-08-03"
+      "verifiedDate": "2026-08-06"
     },
     {
       "id": "biltPoints-cathay-asia-miles-2026-08-28",
@@ -133,9 +134,10 @@
       "sourceUrls": [
         "https://frequentmiler.com/get-a-10-bonus-when-transferring-bank-or-hotel-points-to-cathay-pacific-asia-miles/",
         "https://upgradedpoints.com/news/cathay-pacific-transfer-bonus/",
-        "https://travel-on-points.com/current-point-transfer-bonuses/"
+        "https://travel-on-points.com/current-point-transfer-bonuses/",
+        "https://awardwallet.com/news/credit-card-transfer-bonuses/"
       ],
-      "verifiedDate": "2026-08-03"
+      "verifiedDate": "2026-08-06"
     },
     {
       "id": "thankYouPoints-turkish-miles-and-smiles-2026-08-31",
@@ -151,9 +153,11 @@
         "https://frequentmiler.com/current-point-transfer-bonuses/",
         "https://upgradedpoints.com/news/current-credit-card-transfer-bonuses",
         "https://www.nerdwallet.com/travel/learn/credit-card-transfer-bonuses",
-        "https://travel-on-points.com/current-point-transfer-bonuses/"
+        "https://travel-on-points.com/current-point-transfer-bonuses/",
+        "https://awardwallet.com/news/credit-card-transfer-bonuses/",
+        "https://10xtravel.com/transfer-bonuses/"
       ],
-      "verifiedDate": "2026-08-03"
+      "verifiedDate": "2026-08-06"
     }
   ]
 }
