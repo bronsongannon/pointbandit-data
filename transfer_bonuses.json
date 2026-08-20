@@ -162,6 +162,24 @@
       "verifiedDate": "2026-08-19"
     },
     {
+      "id": "membershipRewards-cathay-asia-miles-2026-08-28",
+      "sourceProgram": "membershipRewards",
+      "destinationPartnerId": "cathay-asia-miles",
+      "bonusPercentage": 10,
+      "effectiveRatio": "5:4.4",
+      "startDate": "2026-07-27",
+      "endDate": "2026-08-28",
+      "conditions": "Registration is required before your first transfer. Amex Membership Rewards transfer to Asia Miles at a 5:4 base ratio (Amex devalued this route from 1:1 on Mar 1, 2026), so the 10% bonus lifts it to 5:4.4 — 1,000 points become 880 Asia Miles, not 1,100. The bonus is capped at 10,000 bonus miles per member across all participating partners combined, which takes about 125,000 Amex points to reach because of the reduced ratio. Bonus miles post roughly 12 weeks after the base miles credit. Ends 11:59pm PT Aug 28.",
+      "isTargeted": false,
+      "sourceUrls": [
+        "https://awardwallet.com/news/credit-card-transfer-bonuses/",
+        "https://frequentmiler.com/get-a-10-bonus-when-transferring-bank-or-hotel-points-to-cathay-pacific-asia-miles/",
+        "https://upgradedpoints.com/news/cathay-pacific-transfer-bonus/",
+        "https://travel-on-points.com/current-point-transfer-bonuses/"
+      ],
+      "verifiedDate": "2026-08-19"
+    },
+    {
       "id": "thankYouPoints-turkish-miles-and-smiles-2026-08-31",
       "sourceProgram": "thankYouPoints",
       "destinationPartnerId": "turkish-miles-and-smiles",
