@@ -95,7 +95,7 @@
       "effectiveRatio": "1:1.3",
       "startDate": "2026-08-03",
       "endDate": "2026-09-27",
-      "conditions": "Amex Membership Rewards transfer to British Airways at a 1:1 base ratio; the 30% bonus lifts it to 1:1.3 (1,000 points → 1,300 Avios). The same promo covers Iberia and Aer Lingus Avios, which Point Bandit does not yet model as Membership Rewards routes.",
+      "conditions": "Amex Membership Rewards transfer to British Airways at a 1:1 base ratio; the 30% bonus lifts it to 1:1.3 (1,000 points → 1,300 Avios). The same promo also covers Iberia Plus and Aer Lingus AerClub, both published separately at the same rate.",
       "isTargeted": false,
       "sourceUrls": [
         "https://awardwallet.com/news/credit-card-transfer-bonuses/",
@@ -104,6 +104,63 @@
         "https://upgradedpoints.com/news/current-credit-card-transfer-bonuses",
         "https://www.nerdwallet.com/travel/learn/credit-card-transfer-bonuses",
         "https://10xtravel.com/transfer-bonuses/",
+        "https://travel-on-points.com/current-point-transfer-bonuses/"
+      ],
+      "verifiedDate": "2026-08-20"
+    },
+    {
+      "id": "membershipRewards-iberia-plus-2026-09-27",
+      "sourceProgram": "membershipRewards",
+      "destinationPartnerId": "iberia-plus",
+      "bonusPercentage": 30,
+      "effectiveRatio": "1:1.3",
+      "startDate": "2026-08-03",
+      "endDate": "2026-09-27",
+      "conditions": "Amex Membership Rewards transfer to Iberia Plus at a 1:1 base ratio; the 30% bonus lifts it to 1:1.3 (1,000 points → 1,300 Avios). Part of the same Amex promo covering British Airways and Aer Lingus. Avios move freely between the three programs once transferred, so you can send points to whichever has the award space.",
+      "isTargeted": false,
+      "sourceUrls": [
+        "https://awardwallet.com/news/credit-card-transfer-bonuses/",
+        "https://frequentmiler.com/current-point-transfer-bonuses/",
+        "https://upgradedpoints.com/news/current-credit-card-transfer-bonuses",
+        "https://www.nerdwallet.com/travel/learn/credit-card-transfer-bonuses",
+        "https://travel-on-points.com/current-point-transfer-bonuses/"
+      ],
+      "verifiedDate": "2026-08-20"
+    },
+    {
+      "id": "membershipRewards-aer-lingus-aerclub-2026-09-27",
+      "sourceProgram": "membershipRewards",
+      "destinationPartnerId": "aer-lingus-aerclub",
+      "bonusPercentage": 30,
+      "effectiveRatio": "1:1.3",
+      "startDate": "2026-08-03",
+      "endDate": "2026-09-27",
+      "conditions": "Amex Membership Rewards transfer to Aer Lingus AerClub at a 1:1 base ratio; the 30% bonus lifts it to 1:1.3 (1,000 points → 1,300 Avios). Part of the same Amex promo covering British Airways and Iberia. Avios move freely between the three programs once transferred, so you can send points to whichever has the award space.",
+      "isTargeted": false,
+      "sourceUrls": [
+        "https://awardwallet.com/news/credit-card-transfer-bonuses/",
+        "https://frequentmiler.com/current-point-transfer-bonuses/",
+        "https://upgradedpoints.com/news/current-credit-card-transfer-bonuses",
+        "https://www.nerdwallet.com/travel/learn/credit-card-transfer-bonuses",
+        "https://travel-on-points.com/current-point-transfer-bonuses/"
+      ],
+      "verifiedDate": "2026-08-20"
+    },
+    {
+      "id": "thankYouPoints-lhw-leaders-club-2026-09-19",
+      "sourceProgram": "thankYouPoints",
+      "destinationPartnerId": "lhw-leaders-club",
+      "bonusPercentage": 25,
+      "effectiveRatio": "5:1.25",
+      "startDate": "2026-08-23",
+      "endDate": "2026-09-19",
+      "conditions": "Starts Aug 23. Citi ThankYou Points transfer to Leaders Club at a 5:1 base ratio — 5 points become 1 — so the 25% bonus lifts it to 1,000 points → 250 Leaders Club points, not 1,250. Transfers are made in 1,000-point increments. Leaders Club points are worth roughly 8 cents each toward a stay, which is what makes the poor-looking ratio work out. Ends 11:59pm ET Sep 19.",
+      "isTargeted": false,
+      "sourceUrls": [
+        "https://awardwallet.com/news/credit-card-transfer-bonuses/",
+        "https://frequentmiler.com/citi-thankyou-leading-hotels-of-the-world-lhw-25-percent-transfer-bonus/",
+        "https://upgradedpoints.com/news/citi-thankyou-leaders-club-transfer-bonus/",
+        "https://www.nerdwallet.com/travel/learn/credit-card-transfer-bonuses",
         "https://travel-on-points.com/current-point-transfer-bonuses/"
       ],
       "verifiedDate": "2026-08-20"
