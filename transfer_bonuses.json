@@ -66,6 +66,25 @@
       "verifiedDate": "2026-08-31"
     },
     {
+      "id": "biltPoints-virgin-atlantic-flying-club-2026-09-01",
+      "sourceProgram": "biltPoints",
+      "destinationPartnerId": "virgin-atlantic-flying-club",
+      "bonusPercentage": 25,
+      "effectiveRatio": "1:1.25",
+      "startDate": "2026-09-01",
+      "endDate": "2026-09-01",
+      "conditions": "Bilt Rent Day — ONE DAY ONLY, Sep 1. Bilt Points transfer to Virgin Atlantic Flying Club at a 1:1 base ratio. The bonus is tiered by Bilt elite status and we show the floor everyone gets: Blue 25% (1:1.25), Silver 35%, Gold 45%, Platinum 75%. Platinum members can also spend $200 in Bilt Cash to raise it to 100%. The bonus applies to the first 150,000 points transferred; the same promo covers Virgin Red. Check your own status before transferring — your rate is likely better than the 25% shown here.",
+      "isTargeted": false,
+      "sourceUrls": [
+        "https://frequentmiler.com/bilt-rent-day-up-to-100-transfer-bonus-to-virgin/",
+        "https://www.nerdwallet.com/travel/learn/credit-card-transfer-bonuses",
+        "https://awardwallet.com/news/bilt-rewards/bilt-rent-day/",
+        "https://www.doctorofcredit.com/bilt-rent-day-september-2026-up-to-100-bonus-to-virgin-atlantic/",
+        "https://loyaltylobby.com/2026/08/28/bilt-rewards-to-virgin-atlantic-flying-club-25-75-conversion-bonus-september-1-2026/"
+      ],
+      "verifiedDate": "2026-08-31"
+    },
+    {
       "id": "thankYouPoints-lhw-leaders-club-2026-09-19",
       "sourceProgram": "thankYouPoints",
       "destinationPartnerId": "lhw-leaders-club",
