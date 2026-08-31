@@ -1,27 +1,27 @@
 {
-  "lastUpdated": "2026-08-20T00:00:00Z",
+  "lastUpdated": "2026-08-31T00:00:00Z",
   "source": "awardwallet.com + frequentmiler.com + point.me + upgradedpoints.com + nerdwallet.com + 10xtravel.com + travel-on-points.com (Mon/Thu refresh; ≥4-source = auto-publish direct to main, 2-3 = review)",
   "bonuses": [
     {
-      "id": "thankYouPoints-air-france-klm-flying-blue-2026-08-22",
+      "id": "thankYouPoints-turkish-miles-and-smiles-2026-08-31",
       "sourceProgram": "thankYouPoints",
-      "destinationPartnerId": "air-france-klm-flying-blue",
-      "bonusPercentage": 20,
-      "effectiveRatio": "1:1.2",
-      "startDate": "2026-07-19",
-      "endDate": "2026-08-22",
-      "conditions": "Citi ThankYou Points transfer to Flying Blue at a 1:1 base ratio; the 20% bonus lifts it to 1:1.2 (1,000 points → 1,200 Flying Blue miles). Applies to the Strata Elite, Strata Premier, Prestige and AT&T Access More cards; select no-annual-fee Citi cards transfer at a lower base rate. Minimum 1,000 points per transfer; ends 11:59pm ET Aug 22.",
+      "destinationPartnerId": "turkish-miles-and-smiles",
+      "bonusPercentage": 40,
+      "effectiveRatio": "1:1.4",
+      "startDate": "2026-08-01",
+      "endDate": "2026-08-31",
+      "conditions": "Citi ThankYou Points transfer to Turkish Miles&Smiles at a 1:1 base ratio; the 40% bonus lifts it to 1:1.4 (1,000 points → 1,400 miles). The promotion is run by Turkish Airlines, not Citi, so it does not appear on the Citi transfer page. No registration required. Capped at 50,000 bonus miles per member (reached at 125,000 points transferred). The campaign closes 23:59 Türkiye time (UTC+3) on Aug 31 — roughly 5:00pm ET the same day, not midnight, so do not leave it to the last evening. Bonus miles are processed by Turkish after the transfer posts and credit after the campaign ends.",
       "isTargeted": false,
       "sourceUrls": [
-        "https://awardwallet.com/news/credit-card-transfer-bonuses/",
         "https://frequentmiler.com/current-point-transfer-bonuses/",
-        "https://point.me/insights/current-transfer-bonuses",
         "https://upgradedpoints.com/news/current-credit-card-transfer-bonuses",
         "https://www.nerdwallet.com/travel/learn/credit-card-transfer-bonuses",
+        "https://travel-on-points.com/current-point-transfer-bonuses/",
+        "https://awardwallet.com/news/credit-card-transfer-bonuses/",
         "https://10xtravel.com/transfer-bonuses/",
-        "https://travel-on-points.com/current-point-transfer-bonuses/"
+        "https://www.doctorofcredit.com/citi-thankyou-points-40-transfer-bonus-to-turkish-airlines-miles-smiles-11-4/"
       ],
-      "verifiedDate": "2026-08-20"
+      "verifiedDate": "2026-08-31"
     },
     {
       "id": "ultimateRewards-ihg-one-rewards-2026-08-31",
@@ -31,7 +31,7 @@
       "effectiveRatio": "1:1.7",
       "startDate": "2026-07-31",
       "endDate": "2026-08-31",
-      "conditions": "Step-down from the 100% bonus that ended Jul 30. Chase Ultimate Rewards transfer to IHG at a 1:1 base ratio; the 70% bonus lifts it to 1:1.7.",
+      "conditions": "Step-down from the 100% bonus that ended Jul 30. Chase Ultimate Rewards transfer to IHG at a 1:1 base ratio; the 70% bonus lifts it to 1:1.7. Ends 11:59pm ET Aug 31. Minimum 1,000 points per transfer, no limit on the number of transfers. Base points usually post within hours; Chase's terms allow up to 7 days for the bonus portion to land.",
       "isTargeted": false,
       "sourceUrls": [
         "https://awardwallet.com/news/credit-card-transfer-bonuses/",
@@ -42,7 +42,7 @@
         "https://10xtravel.com/transfer-bonuses/",
         "https://travel-on-points.com/current-point-transfer-bonuses/"
       ],
-      "verifiedDate": "2026-08-20"
+      "verifiedDate": "2026-08-31"
     },
     {
       "id": "ventureMiles-avianca-lifemiles-2026-08-31",
@@ -52,7 +52,7 @@
       "effectiveRatio": "1:1.15",
       "startDate": "2026-08-01",
       "endDate": "2026-08-31",
-      "conditions": "Capital One miles transfer to Avianca LifeMiles at a 1:1 base ratio; the 15% bonus lifts it to 1:1.15 (1,000 miles → 1,150 LifeMiles). Minimum 1,000 miles per transfer. LifeMiles has recently repriced some awards — verify redemption pricing before transferring.",
+      "conditions": "Capital One miles transfer to Avianca LifeMiles at a 1:1 base ratio; the 15% bonus lifts it to 1:1.15 (1,000 miles → 1,150 LifeMiles). Ends 11:59pm ET Aug 31. Minimum 1,000 miles per transfer; no registration required and no cap on bonus miles. LifeMiles has recently repriced some awards — verify redemption pricing before transferring.",
       "isTargeted": false,
       "sourceUrls": [
         "https://awardwallet.com/news/credit-card-transfer-bonuses/",
@@ -63,7 +63,89 @@
         "https://10xtravel.com/transfer-bonuses/",
         "https://travel-on-points.com/current-point-transfer-bonuses/"
       ],
-      "verifiedDate": "2026-08-20"
+      "verifiedDate": "2026-08-31"
+    },
+    {
+      "id": "thankYouPoints-lhw-leaders-club-2026-09-19",
+      "sourceProgram": "thankYouPoints",
+      "destinationPartnerId": "lhw-leaders-club",
+      "bonusPercentage": 25,
+      "effectiveRatio": "5:1.25",
+      "startDate": "2026-08-23",
+      "endDate": "2026-09-19",
+      "conditions": "Starts Aug 23. Citi ThankYou Points transfer to Leaders Club at a 5:1 base ratio — 5 points become 1 — so the 25% bonus lifts it to 1,000 points → 250 Leaders Club points, not 1,250. Transfers are made in 1,000-point increments. Leaders Club points are worth roughly 8 cents each toward a stay, which is what makes the poor-looking ratio work out. Ends 11:59pm ET Sep 19.",
+      "isTargeted": false,
+      "sourceUrls": [
+        "https://awardwallet.com/news/credit-card-transfer-bonuses/",
+        "https://frequentmiler.com/citi-thankyou-leading-hotels-of-the-world-lhw-25-percent-transfer-bonus/",
+        "https://upgradedpoints.com/news/citi-thankyou-leaders-club-transfer-bonus/",
+        "https://www.nerdwallet.com/travel/learn/credit-card-transfer-bonuses",
+        "https://travel-on-points.com/current-point-transfer-bonuses/",
+        "https://10xtravel.com/transfer-bonuses/"
+      ],
+      "verifiedDate": "2026-08-31"
+    },
+    {
+      "id": "membershipRewards-aer-lingus-aerclub-2026-09-27",
+      "sourceProgram": "membershipRewards",
+      "destinationPartnerId": "aer-lingus-aerclub",
+      "bonusPercentage": 30,
+      "effectiveRatio": "1:1.3",
+      "startDate": "2026-08-03",
+      "endDate": "2026-09-27",
+      "conditions": "Amex Membership Rewards transfer to Aer Lingus AerClub at a 1:1 base ratio; the 30% bonus lifts it to 1:1.3 (1,000 points → 1,300 Avios). Part of the same Amex promo covering British Airways and Iberia. Avios move freely between the three programs once transferred, so you can send points to whichever has the award space.",
+      "isTargeted": false,
+      "sourceUrls": [
+        "https://awardwallet.com/news/credit-card-transfer-bonuses/",
+        "https://frequentmiler.com/current-point-transfer-bonuses/",
+        "https://upgradedpoints.com/news/current-credit-card-transfer-bonuses",
+        "https://www.nerdwallet.com/travel/learn/credit-card-transfer-bonuses",
+        "https://travel-on-points.com/current-point-transfer-bonuses/",
+        "https://loyaltylobby.com/2026/08/05/amex-us-mr-to-aer-lingus-british-airways-iberia-avios-30-conversion-bonus-until-september-27-2026/"
+      ],
+      "verifiedDate": "2026-08-31"
+    },
+    {
+      "id": "membershipRewards-british-airways-avios-2026-09-27",
+      "sourceProgram": "membershipRewards",
+      "destinationPartnerId": "british-airways-avios",
+      "bonusPercentage": 30,
+      "effectiveRatio": "1:1.3",
+      "startDate": "2026-08-03",
+      "endDate": "2026-09-27",
+      "conditions": "Amex Membership Rewards transfer to British Airways at a 1:1 base ratio; the 30% bonus lifts it to 1:1.3 (1,000 points → 1,300 Avios). Valid through 11:59pm MT Sep 27. Transfers must be in 1,000-point increments, with a maximum of 999,000 Avios per single transfer; bonus Avios can take up to 72 hours to appear. The same promo also covers Iberia Plus and Aer Lingus AerClub, both published separately at the same rate.",
+      "isTargeted": false,
+      "sourceUrls": [
+        "https://awardwallet.com/news/credit-card-transfer-bonuses/",
+        "https://frequentmiler.com/current-point-transfer-bonuses/",
+        "https://point.me/insights/current-transfer-bonuses",
+        "https://upgradedpoints.com/news/current-credit-card-transfer-bonuses",
+        "https://www.nerdwallet.com/travel/learn/credit-card-transfer-bonuses",
+        "https://10xtravel.com/transfer-bonuses/",
+        "https://travel-on-points.com/current-point-transfer-bonuses/",
+        "https://loyaltylobby.com/2026/08/05/amex-us-mr-to-aer-lingus-british-airways-iberia-avios-30-conversion-bonus-until-september-27-2026/"
+      ],
+      "verifiedDate": "2026-08-31"
+    },
+    {
+      "id": "membershipRewards-iberia-plus-2026-09-27",
+      "sourceProgram": "membershipRewards",
+      "destinationPartnerId": "iberia-plus",
+      "bonusPercentage": 30,
+      "effectiveRatio": "1:1.3",
+      "startDate": "2026-08-03",
+      "endDate": "2026-09-27",
+      "conditions": "Amex Membership Rewards transfer to Iberia Plus at a 1:1 base ratio; the 30% bonus lifts it to 1:1.3 (1,000 points → 1,300 Avios). Part of the same Amex promo covering British Airways and Aer Lingus. Avios move freely between the three programs once transferred, so you can send points to whichever has the award space.",
+      "isTargeted": false,
+      "sourceUrls": [
+        "https://awardwallet.com/news/credit-card-transfer-bonuses/",
+        "https://frequentmiler.com/current-point-transfer-bonuses/",
+        "https://upgradedpoints.com/news/current-credit-card-transfer-bonuses",
+        "https://www.nerdwallet.com/travel/learn/credit-card-transfer-bonuses",
+        "https://travel-on-points.com/current-point-transfer-bonuses/",
+        "https://loyaltylobby.com/2026/08/05/amex-us-mr-to-aer-lingus-british-airways-iberia-avios-30-conversion-bonus-until-september-27-2026/"
+      ],
+      "verifiedDate": "2026-08-31"
     },
     {
       "id": "ultimateRewards-air-canada-aeroplan-2026-09-30",
@@ -85,177 +167,7 @@
         "https://travel-on-points.com/current-point-transfer-bonuses/",
         "https://www.doctorofcredit.com/chase-ultimate-rewards-20-transfer-bonus-to-aeroplan-11-20-10-cardmember-bonus-2/"
       ],
-      "verifiedDate": "2026-08-20"
-    },
-    {
-      "id": "membershipRewards-british-airways-avios-2026-09-27",
-      "sourceProgram": "membershipRewards",
-      "destinationPartnerId": "british-airways-avios",
-      "bonusPercentage": 30,
-      "effectiveRatio": "1:1.3",
-      "startDate": "2026-08-03",
-      "endDate": "2026-09-27",
-      "conditions": "Amex Membership Rewards transfer to British Airways at a 1:1 base ratio; the 30% bonus lifts it to 1:1.3 (1,000 points → 1,300 Avios). The same promo also covers Iberia Plus and Aer Lingus AerClub, both published separately at the same rate.",
-      "isTargeted": false,
-      "sourceUrls": [
-        "https://awardwallet.com/news/credit-card-transfer-bonuses/",
-        "https://frequentmiler.com/current-point-transfer-bonuses/",
-        "https://point.me/insights/current-transfer-bonuses",
-        "https://upgradedpoints.com/news/current-credit-card-transfer-bonuses",
-        "https://www.nerdwallet.com/travel/learn/credit-card-transfer-bonuses",
-        "https://10xtravel.com/transfer-bonuses/",
-        "https://travel-on-points.com/current-point-transfer-bonuses/"
-      ],
-      "verifiedDate": "2026-08-20"
-    },
-    {
-      "id": "membershipRewards-iberia-plus-2026-09-27",
-      "sourceProgram": "membershipRewards",
-      "destinationPartnerId": "iberia-plus",
-      "bonusPercentage": 30,
-      "effectiveRatio": "1:1.3",
-      "startDate": "2026-08-03",
-      "endDate": "2026-09-27",
-      "conditions": "Amex Membership Rewards transfer to Iberia Plus at a 1:1 base ratio; the 30% bonus lifts it to 1:1.3 (1,000 points → 1,300 Avios). Part of the same Amex promo covering British Airways and Aer Lingus. Avios move freely between the three programs once transferred, so you can send points to whichever has the award space.",
-      "isTargeted": false,
-      "sourceUrls": [
-        "https://awardwallet.com/news/credit-card-transfer-bonuses/",
-        "https://frequentmiler.com/current-point-transfer-bonuses/",
-        "https://upgradedpoints.com/news/current-credit-card-transfer-bonuses",
-        "https://www.nerdwallet.com/travel/learn/credit-card-transfer-bonuses",
-        "https://travel-on-points.com/current-point-transfer-bonuses/"
-      ],
-      "verifiedDate": "2026-08-20"
-    },
-    {
-      "id": "membershipRewards-aer-lingus-aerclub-2026-09-27",
-      "sourceProgram": "membershipRewards",
-      "destinationPartnerId": "aer-lingus-aerclub",
-      "bonusPercentage": 30,
-      "effectiveRatio": "1:1.3",
-      "startDate": "2026-08-03",
-      "endDate": "2026-09-27",
-      "conditions": "Amex Membership Rewards transfer to Aer Lingus AerClub at a 1:1 base ratio; the 30% bonus lifts it to 1:1.3 (1,000 points → 1,300 Avios). Part of the same Amex promo covering British Airways and Iberia. Avios move freely between the three programs once transferred, so you can send points to whichever has the award space.",
-      "isTargeted": false,
-      "sourceUrls": [
-        "https://awardwallet.com/news/credit-card-transfer-bonuses/",
-        "https://frequentmiler.com/current-point-transfer-bonuses/",
-        "https://upgradedpoints.com/news/current-credit-card-transfer-bonuses",
-        "https://www.nerdwallet.com/travel/learn/credit-card-transfer-bonuses",
-        "https://travel-on-points.com/current-point-transfer-bonuses/"
-      ],
-      "verifiedDate": "2026-08-20"
-    },
-    {
-      "id": "thankYouPoints-lhw-leaders-club-2026-09-19",
-      "sourceProgram": "thankYouPoints",
-      "destinationPartnerId": "lhw-leaders-club",
-      "bonusPercentage": 25,
-      "effectiveRatio": "5:1.25",
-      "startDate": "2026-08-23",
-      "endDate": "2026-09-19",
-      "conditions": "Starts Aug 23. Citi ThankYou Points transfer to Leaders Club at a 5:1 base ratio — 5 points become 1 — so the 25% bonus lifts it to 1,000 points → 250 Leaders Club points, not 1,250. Transfers are made in 1,000-point increments. Leaders Club points are worth roughly 8 cents each toward a stay, which is what makes the poor-looking ratio work out. Ends 11:59pm ET Sep 19.",
-      "isTargeted": false,
-      "sourceUrls": [
-        "https://awardwallet.com/news/credit-card-transfer-bonuses/",
-        "https://frequentmiler.com/citi-thankyou-leading-hotels-of-the-world-lhw-25-percent-transfer-bonus/",
-        "https://upgradedpoints.com/news/citi-thankyou-leaders-club-transfer-bonus/",
-        "https://www.nerdwallet.com/travel/learn/credit-card-transfer-bonuses",
-        "https://travel-on-points.com/current-point-transfer-bonuses/"
-      ],
-      "verifiedDate": "2026-08-20"
-    },
-    {
-      "id": "thankYouPoints-cathay-asia-miles-2026-08-28",
-      "sourceProgram": "thankYouPoints",
-      "destinationPartnerId": "cathay-asia-miles",
-      "bonusPercentage": 10,
-      "effectiveRatio": "1:1.1",
-      "startDate": "2026-07-27",
-      "endDate": "2026-08-28",
-      "conditions": "Registration is required before your first transfer. Citi ThankYou Points transfer to Asia Miles at a 1:1 base ratio; the 10% bonus lifts it to 1:1.1. The bonus is capped at 10,000 bonus miles per member across all participating partners combined, so the most you can earn is on about 100,000 points transferred. Bonus miles post roughly 12 weeks after the base miles credit. Ends 11:59pm PT Aug 28.",
-      "isTargeted": false,
-      "sourceUrls": [
-        "https://awardwallet.com/news/credit-card-transfer-bonuses/",
-        "https://frequentmiler.com/get-a-10-bonus-when-transferring-bank-or-hotel-points-to-cathay-pacific-asia-miles/",
-        "https://upgradedpoints.com/news/cathay-pacific-transfer-bonus/",
-        "https://travel-on-points.com/current-point-transfer-bonuses/"
-      ],
-      "verifiedDate": "2026-08-20"
-    },
-    {
-      "id": "ventureMiles-cathay-asia-miles-2026-08-28",
-      "sourceProgram": "ventureMiles",
-      "destinationPartnerId": "cathay-asia-miles",
-      "bonusPercentage": 10,
-      "effectiveRatio": "1:1.1",
-      "startDate": "2026-07-27",
-      "endDate": "2026-08-28",
-      "conditions": "Registration is required before your first transfer. Capital One miles transfer to Asia Miles at a 1:1 base ratio; the 10% bonus lifts it to 1:1.1. The bonus is capped at 10,000 bonus miles per member across all participating partners combined, so the most you can earn is on about 100,000 miles transferred. Bonus miles post roughly 12 weeks after the base miles credit. Ends 11:59pm PT Aug 28.",
-      "isTargeted": false,
-      "sourceUrls": [
-        "https://awardwallet.com/news/credit-card-transfer-bonuses/",
-        "https://frequentmiler.com/get-a-10-bonus-when-transferring-bank-or-hotel-points-to-cathay-pacific-asia-miles/",
-        "https://upgradedpoints.com/news/cathay-pacific-transfer-bonus/",
-        "https://travel-on-points.com/current-point-transfer-bonuses/"
-      ],
-      "verifiedDate": "2026-08-20"
-    },
-    {
-      "id": "biltPoints-cathay-asia-miles-2026-08-28",
-      "sourceProgram": "biltPoints",
-      "destinationPartnerId": "cathay-asia-miles",
-      "bonusPercentage": 10,
-      "effectiveRatio": "1:1.1",
-      "startDate": "2026-07-27",
-      "endDate": "2026-08-28",
-      "conditions": "Registration is required before your first transfer. Bilt Points transfer to Asia Miles at a 1:1 base ratio; the 10% bonus lifts it to 1:1.1. The bonus is capped at 10,000 bonus miles per member across all participating partners combined, so the most you can earn is on about 100,000 points transferred. Bonus miles post roughly 12 weeks after the base miles credit. Ends 11:59pm PT Aug 28.",
-      "isTargeted": false,
-      "sourceUrls": [
-        "https://frequentmiler.com/get-a-10-bonus-when-transferring-bank-or-hotel-points-to-cathay-pacific-asia-miles/",
-        "https://upgradedpoints.com/news/cathay-pacific-transfer-bonus/",
-        "https://travel-on-points.com/current-point-transfer-bonuses/",
-        "https://awardwallet.com/news/credit-card-transfer-bonuses/"
-      ],
-      "verifiedDate": "2026-08-20"
-    },
-    {
-      "id": "membershipRewards-cathay-asia-miles-2026-08-28",
-      "sourceProgram": "membershipRewards",
-      "destinationPartnerId": "cathay-asia-miles",
-      "bonusPercentage": 10,
-      "effectiveRatio": "5:4.4",
-      "startDate": "2026-07-27",
-      "endDate": "2026-08-28",
-      "conditions": "Registration is required before your first transfer. Amex Membership Rewards transfer to Asia Miles at a 5:4 base ratio (Amex devalued this route from 1:1 on Mar 1, 2026), so the 10% bonus lifts it to 5:4.4 — 1,000 points become 880 Asia Miles, not 1,100. The bonus is capped at 10,000 bonus miles per member across all participating partners combined, which takes about 125,000 Amex points to reach because of the reduced ratio. Bonus miles post roughly 12 weeks after the base miles credit. Ends 11:59pm PT Aug 28.",
-      "isTargeted": false,
-      "sourceUrls": [
-        "https://awardwallet.com/news/credit-card-transfer-bonuses/",
-        "https://frequentmiler.com/get-a-10-bonus-when-transferring-bank-or-hotel-points-to-cathay-pacific-asia-miles/",
-        "https://upgradedpoints.com/news/cathay-pacific-transfer-bonus/",
-        "https://travel-on-points.com/current-point-transfer-bonuses/"
-      ],
-      "verifiedDate": "2026-08-20"
-    },
-    {
-      "id": "thankYouPoints-turkish-miles-and-smiles-2026-08-31",
-      "sourceProgram": "thankYouPoints",
-      "destinationPartnerId": "turkish-miles-and-smiles",
-      "bonusPercentage": 40,
-      "effectiveRatio": "1:1.4",
-      "startDate": "2026-08-01",
-      "endDate": "2026-08-31",
-      "conditions": "Citi ThankYou Points transfer to Turkish Miles&Smiles at a 1:1 base ratio; the 40% bonus lifts it to 1:1.4 (1,000 points → 1,400 miles). The promotion is run by Turkish Airlines, not Citi, so it does not appear on the Citi transfer page. No registration required. Capped at 50,000 bonus miles per member (reached at 125,000 points transferred). Bonus miles are processed by Turkish after the transfer posts and credit after the campaign ends Aug 31.",
-      "isTargeted": false,
-      "sourceUrls": [
-        "https://frequentmiler.com/current-point-transfer-bonuses/",
-        "https://upgradedpoints.com/news/current-credit-card-transfer-bonuses",
-        "https://www.nerdwallet.com/travel/learn/credit-card-transfer-bonuses",
-        "https://travel-on-points.com/current-point-transfer-bonuses/",
-        "https://awardwallet.com/news/credit-card-transfer-bonuses/",
-        "https://10xtravel.com/transfer-bonuses/"
-      ],
-      "verifiedDate": "2026-08-20"
+      "verifiedDate": "2026-08-31"
     }
   ]
 }
