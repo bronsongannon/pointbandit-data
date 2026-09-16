@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-07T23:33:50Z",
+  "lastUpdated": "2026-09-16T03:53:43Z",
   "source": "awardwallet.com + frequentmiler.com + point.me + upgradedpoints.com + nerdwallet.com + 10xtravel.com (Mon/Thu refresh; ≥4 independent sources required; Travel on Points robots-blocked)",
   "bonuses": [
     {
@@ -19,7 +19,7 @@
         "https://upgradedpoints.com/news/current-credit-card-transfer-bonuses",
         "https://www.nerdwallet.com/travel/learn/credit-card-transfer-bonuses"
       ],
-      "verifiedDate": "2026-09-07"
+      "verifiedDate": "2026-09-15"
     },
     {
       "id": "membershipRewards-aer-lingus-aerclub-2026-09-27",
@@ -38,7 +38,7 @@
         "https://upgradedpoints.com/news/current-credit-card-transfer-bonuses",
         "https://www.nerdwallet.com/travel/learn/credit-card-transfer-bonuses"
       ],
-      "verifiedDate": "2026-09-07"
+      "verifiedDate": "2026-09-15"
     },
     {
       "id": "membershipRewards-british-airways-avios-2026-09-27",
@@ -58,7 +58,7 @@
         "https://www.nerdwallet.com/travel/learn/credit-card-transfer-bonuses",
         "https://10xtravel.com/transfer-bonuses/"
       ],
-      "verifiedDate": "2026-09-07"
+      "verifiedDate": "2026-09-15"
     },
     {
       "id": "membershipRewards-iberia-plus-2026-09-27",
@@ -77,7 +77,7 @@
         "https://upgradedpoints.com/news/current-credit-card-transfer-bonuses",
         "https://www.nerdwallet.com/travel/learn/credit-card-transfer-bonuses"
       ],
-      "verifiedDate": "2026-09-07"
+      "verifiedDate": "2026-09-15"
     },
     {
       "id": "ultimateRewards-air-canada-aeroplan-2026-09-30",
@@ -97,7 +97,7 @@
         "https://www.nerdwallet.com/travel/learn/credit-card-transfer-bonuses",
         "https://10xtravel.com/transfer-bonuses/"
       ],
-      "verifiedDate": "2026-09-07"
+      "verifiedDate": "2026-09-15"
     }
   ]
 }
