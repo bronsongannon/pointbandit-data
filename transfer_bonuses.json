@@ -3,6 +3,23 @@
   "source": "awardwallet.com + frequentmiler.com + point.me + upgradedpoints.com + nerdwallet.com + 10xtravel.com (Mon/Thu refresh; ≥4 independent sources required; Travel on Points robots-blocked)",
   "bonuses": [
     {
+      "id": "ultimateRewards-marriott-bonvoy-2026-10-15",
+      "sourceProgram": "ultimateRewards",
+      "destinationPartnerId": "marriott-bonvoy",
+      "bonusPercentage": 70,
+      "effectiveRatio": "1:1.7",
+      "startDate": "2026-09-15",
+      "endDate": "2026-10-15",
+      "conditions": "Transfer 1,000 Chase Ultimate Rewards points to receive 1,700 Marriott Bonvoy points. Ends at 11:59pm ET on October 15. Bonus points may take up to 7 days to arrive. Transfers cannot be reversed; check the points price of your planned stay before transferring.",
+      "isTargeted": false,
+      "sourceUrls": [
+        "https://frequentmiler.com/70-percent-transfer-bonus-chase-ultimate-rewards-marriott-bonvoy/",
+        "https://upgradedpoints.com/news/chase-marriott-transfer-bonus/",
+        "https://10xtravel.com/transfer-bonuses/"
+      ],
+      "verifiedDate": "2026-09-15"
+    },
+    {
       "id": "thankYouPoints-lhw-leaders-club-2026-09-19",
       "sourceProgram": "thankYouPoints",
       "destinationPartnerId": "lhw-leaders-club",
