@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-16T03:53:43Z",
+  "lastUpdated": "2026-09-19T20:02:19Z",
   "source": "awardwallet.com + frequentmiler.com + point.me + upgradedpoints.com + nerdwallet.com + 10xtravel.com (Mon/Thu refresh; ≥4 independent sources required; Travel on Points robots-blocked)",
   "bonuses": [
     {
@@ -13,11 +13,13 @@
       "conditions": "Transfer 1,000 Chase Ultimate Rewards points to receive 1,700 Marriott Bonvoy points. Ends at 11:59pm ET on October 15. Bonus points may take up to 7 days to arrive. Transfers cannot be reversed; check the points price of your planned stay before transferring.",
       "isTargeted": false,
       "sourceUrls": [
+        "https://awardwallet.com/news/credit-card-transfer-bonuses/",
         "https://frequentmiler.com/70-percent-transfer-bonus-chase-ultimate-rewards-marriott-bonvoy/",
         "https://upgradedpoints.com/news/chase-marriott-transfer-bonus/",
-        "https://10xtravel.com/transfer-bonuses/"
+        "https://10xtravel.com/transfer-bonuses/",
+        "https://www.nerdwallet.com/travel/learn/credit-card-transfer-bonuses"
       ],
-      "verifiedDate": "2026-09-15"
+      "verifiedDate": "2026-09-19"
     },
     {
       "id": "thankYouPoints-lhw-leaders-club-2026-09-19",
@@ -36,7 +38,7 @@
         "https://upgradedpoints.com/news/current-credit-card-transfer-bonuses",
         "https://www.nerdwallet.com/travel/learn/credit-card-transfer-bonuses"
       ],
-      "verifiedDate": "2026-09-15"
+      "verifiedDate": "2026-09-19"
     },
     {
       "id": "membershipRewards-aer-lingus-aerclub-2026-09-27",
@@ -55,7 +57,7 @@
         "https://upgradedpoints.com/news/current-credit-card-transfer-bonuses",
         "https://www.nerdwallet.com/travel/learn/credit-card-transfer-bonuses"
       ],
-      "verifiedDate": "2026-09-15"
+      "verifiedDate": "2026-09-19"
     },
     {
       "id": "membershipRewards-british-airways-avios-2026-09-27",
@@ -75,7 +77,7 @@
         "https://www.nerdwallet.com/travel/learn/credit-card-transfer-bonuses",
         "https://10xtravel.com/transfer-bonuses/"
       ],
-      "verifiedDate": "2026-09-15"
+      "verifiedDate": "2026-09-19"
     },
     {
       "id": "membershipRewards-iberia-plus-2026-09-27",
@@ -94,7 +96,7 @@
         "https://upgradedpoints.com/news/current-credit-card-transfer-bonuses",
         "https://www.nerdwallet.com/travel/learn/credit-card-transfer-bonuses"
       ],
-      "verifiedDate": "2026-09-15"
+      "verifiedDate": "2026-09-19"
     },
     {
       "id": "ultimateRewards-air-canada-aeroplan-2026-09-30",
@@ -114,7 +116,7 @@
         "https://www.nerdwallet.com/travel/learn/credit-card-transfer-bonuses",
         "https://10xtravel.com/transfer-bonuses/"
       ],
-      "verifiedDate": "2026-09-15"
+      "verifiedDate": "2026-09-19"
     }
   ]
 }
