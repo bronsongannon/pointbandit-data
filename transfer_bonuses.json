@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-19T20:02:19Z",
-  "source": "awardwallet.com + frequentmiler.com + point.me + upgradedpoints.com + nerdwallet.com + 10xtravel.com (Mon/Thu refresh; ≥4 independent sources required; Travel on Points robots-blocked)",
+  "lastUpdated": "2026-09-28T08:10:33-0700",
+  "source": "awardwallet.com + frequentmiler.com + nerdwallet.com + 10xtravel.com + travel-on-points.com (2026-09-28 refresh; five independent current trackers; targeted and unmapped candidates held)",
   "bonuses": [
     {
       "id": "ultimateRewards-marriott-bonvoy-2026-10-15",
@@ -14,89 +14,12 @@
       "isTargeted": false,
       "sourceUrls": [
         "https://awardwallet.com/news/credit-card-transfer-bonuses/",
-        "https://frequentmiler.com/70-percent-transfer-bonus-chase-ultimate-rewards-marriott-bonvoy/",
-        "https://upgradedpoints.com/news/chase-marriott-transfer-bonus/",
-        "https://10xtravel.com/transfer-bonuses/",
-        "https://www.nerdwallet.com/travel/learn/credit-card-transfer-bonuses"
-      ],
-      "verifiedDate": "2026-09-19"
-    },
-    {
-      "id": "thankYouPoints-lhw-leaders-club-2026-09-19",
-      "sourceProgram": "thankYouPoints",
-      "destinationPartnerId": "lhw-leaders-club",
-      "bonusPercentage": 25,
-      "effectiveRatio": "5:1.25",
-      "startDate": "2026-08-23",
-      "endDate": "2026-09-19",
-      "conditions": "Starts Aug 23. Citi ThankYou Points transfer to Leaders Club at a 5:1 base ratio — 5 points become 1 — so the 25% bonus lifts it to 1,000 points → 250 Leaders Club points, not 1,250. Transfers are made in 1,000-point increments. Leaders Club points are worth roughly 8 cents each toward a stay, which is what makes the poor-looking ratio work out. Ends 11:59pm ET Sep 19.",
-      "isTargeted": false,
-      "sourceUrls": [
-        "https://awardwallet.com/news/credit-card-transfer-bonuses/",
         "https://frequentmiler.com/current-point-transfer-bonuses/",
-        "https://point.me/insights/current-transfer-bonuses",
-        "https://upgradedpoints.com/news/current-credit-card-transfer-bonuses",
-        "https://www.nerdwallet.com/travel/learn/credit-card-transfer-bonuses"
-      ],
-      "verifiedDate": "2026-09-19"
-    },
-    {
-      "id": "membershipRewards-aer-lingus-aerclub-2026-09-27",
-      "sourceProgram": "membershipRewards",
-      "destinationPartnerId": "aer-lingus-aerclub",
-      "bonusPercentage": 30,
-      "effectiveRatio": "1:1.3",
-      "startDate": "2026-08-03",
-      "endDate": "2026-09-27",
-      "conditions": "Amex Membership Rewards transfer to Aer Lingus AerClub at a 1:1 base ratio; the 30% bonus lifts it to 1:1.3 (1,000 points → 1,300 Avios). Part of the same Amex promo covering British Airways and Iberia. Avios move freely between the three programs once transferred, so you can send points to whichever has the award space.",
-      "isTargeted": false,
-      "sourceUrls": [
-        "https://awardwallet.com/news/credit-card-transfer-bonuses/",
-        "https://frequentmiler.com/current-point-transfer-bonuses/",
-        "https://point.me/insights/current-transfer-bonuses",
-        "https://upgradedpoints.com/news/current-credit-card-transfer-bonuses",
-        "https://www.nerdwallet.com/travel/learn/credit-card-transfer-bonuses"
-      ],
-      "verifiedDate": "2026-09-19"
-    },
-    {
-      "id": "membershipRewards-british-airways-avios-2026-09-27",
-      "sourceProgram": "membershipRewards",
-      "destinationPartnerId": "british-airways-avios",
-      "bonusPercentage": 30,
-      "effectiveRatio": "1:1.3",
-      "startDate": "2026-08-03",
-      "endDate": "2026-09-27",
-      "conditions": "Amex Membership Rewards transfer to British Airways at a 1:1 base ratio; the 30% bonus lifts it to 1:1.3 (1,000 points → 1,300 Avios). Valid through 11:59pm MT Sep 27. Transfers must be in 1,000-point increments, with a maximum of 999,000 Avios per single transfer; bonus Avios can take up to 72 hours to appear. The same promo also covers Iberia Plus and Aer Lingus AerClub, both published separately at the same rate.",
-      "isTargeted": false,
-      "sourceUrls": [
-        "https://awardwallet.com/news/credit-card-transfer-bonuses/",
-        "https://frequentmiler.com/current-point-transfer-bonuses/",
-        "https://point.me/insights/current-transfer-bonuses",
-        "https://upgradedpoints.com/news/current-credit-card-transfer-bonuses",
         "https://www.nerdwallet.com/travel/learn/credit-card-transfer-bonuses",
-        "https://10xtravel.com/transfer-bonuses/"
+        "https://10xtravel.com/transfer-bonuses/",
+        "https://travel-on-points.com/current-point-transfer-bonuses/"
       ],
-      "verifiedDate": "2026-09-19"
-    },
-    {
-      "id": "membershipRewards-iberia-plus-2026-09-27",
-      "sourceProgram": "membershipRewards",
-      "destinationPartnerId": "iberia-plus",
-      "bonusPercentage": 30,
-      "effectiveRatio": "1:1.3",
-      "startDate": "2026-08-03",
-      "endDate": "2026-09-27",
-      "conditions": "Amex Membership Rewards transfer to Iberia Plus at a 1:1 base ratio; the 30% bonus lifts it to 1:1.3 (1,000 points → 1,300 Avios). Part of the same Amex promo covering British Airways and Aer Lingus. Avios move freely between the three programs once transferred, so you can send points to whichever has the award space.",
-      "isTargeted": false,
-      "sourceUrls": [
-        "https://awardwallet.com/news/credit-card-transfer-bonuses/",
-        "https://frequentmiler.com/current-point-transfer-bonuses/",
-        "https://point.me/insights/current-transfer-bonuses",
-        "https://upgradedpoints.com/news/current-credit-card-transfer-bonuses",
-        "https://www.nerdwallet.com/travel/learn/credit-card-transfer-bonuses"
-      ],
-      "verifiedDate": "2026-09-19"
+      "verifiedDate": "2026-09-28"
     },
     {
       "id": "ultimateRewards-air-canada-aeroplan-2026-09-30",
@@ -111,12 +34,11 @@
       "sourceUrls": [
         "https://awardwallet.com/news/credit-card-transfer-bonuses/",
         "https://frequentmiler.com/current-point-transfer-bonuses/",
-        "https://point.me/insights/current-transfer-bonuses",
-        "https://upgradedpoints.com/news/current-credit-card-transfer-bonuses",
         "https://www.nerdwallet.com/travel/learn/credit-card-transfer-bonuses",
-        "https://10xtravel.com/transfer-bonuses/"
+        "https://10xtravel.com/transfer-bonuses/",
+        "https://travel-on-points.com/current-point-transfer-bonuses/"
       ],
-      "verifiedDate": "2026-09-19"
+      "verifiedDate": "2026-09-28"
     }
   ]
 }
