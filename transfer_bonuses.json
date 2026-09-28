@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-09-28T08:10:33-0700",
-  "source": "awardwallet.com + frequentmiler.com + nerdwallet.com + 10xtravel.com + travel-on-points.com (2026-09-28 refresh; five independent current trackers; targeted and unmapped candidates held)",
+  "source": "awardwallet.com + frequentmiler.com + nerdwallet.com + 10xtravel.com + travel-on-points.com (2026-09-28 refresh; live offers have four or more independent current sources; targeted and unmapped candidates held)",
   "bonuses": [
     {
       "id": "ultimateRewards-marriott-bonvoy-2026-10-15",
@@ -35,6 +35,24 @@
         "https://awardwallet.com/news/credit-card-transfer-bonuses/",
         "https://frequentmiler.com/current-point-transfer-bonuses/",
         "https://www.nerdwallet.com/travel/learn/credit-card-transfer-bonuses",
+        "https://10xtravel.com/transfer-bonuses/",
+        "https://travel-on-points.com/current-point-transfer-bonuses/"
+      ],
+      "verifiedDate": "2026-09-28"
+    },
+    {
+      "id": "thankYouPoints-avianca-lifemiles-2026-10-24",
+      "sourceProgram": "thankYouPoints",
+      "destinationPartnerId": "avianca-lifemiles",
+      "bonusPercentage": 25,
+      "effectiveRatio": "1:1.25",
+      "startDate": "2026-09-20",
+      "endDate": "2026-10-24",
+      "conditions": "Transfer Citi ThankYou Points to Avianca LifeMiles between 12:01am ET September 20 and 11:59pm ET October 24 to receive a 25% bonus. Eligible Strata Elite, Strata Premier, Prestige, and AT&T Access More cardholders receive 1,250 LifeMiles per 1,000 ThankYou Points. Transfers require at least 1,000 points and cannot be reversed.",
+      "isTargeted": false,
+      "sourceUrls": [
+        "https://awardwallet.com/news/credit-card-transfer-bonuses/",
+        "https://frequentmiler.com/25-transfer-bonus-to-avianca-lifemiles-from-citi-thankyou-rewards-2/",
         "https://10xtravel.com/transfer-bonuses/",
         "https://travel-on-points.com/current-point-transfer-bonuses/"
       ],
