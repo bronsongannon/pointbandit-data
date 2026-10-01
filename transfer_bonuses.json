@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-28T08:10:33-0700",
-  "source": "awardwallet.com + frequentmiler.com + nerdwallet.com + 10xtravel.com + travel-on-points.com (2026-09-28 refresh; live offers have four or more independent current sources; targeted and unmapped candidates held)",
+  "lastUpdated": "2026-10-01T08:45:50-0700",
+  "source": "awardwallet.com + frequentmiler.com + nerdwallet.com + 10xtravel.com + travel-on-points.com (2026-10-01 refresh; live offers have four or more independent current sources; targeted and unmapped candidates held)",
   "bonuses": [
     {
       "id": "ultimateRewards-marriott-bonvoy-2026-10-15",
@@ -17,28 +17,10 @@
         "https://frequentmiler.com/current-point-transfer-bonuses/",
         "https://www.nerdwallet.com/travel/learn/credit-card-transfer-bonuses",
         "https://10xtravel.com/transfer-bonuses/",
-        "https://travel-on-points.com/current-point-transfer-bonuses/"
+        "https://travel-on-points.com/current-point-transfer-bonuses/",
+        "https://www.chase.com/personal/credit-cards/education/basics/chase-transfer-partners-everything-you-need-to-know"
       ],
-      "verifiedDate": "2026-09-28"
-    },
-    {
-      "id": "ultimateRewards-air-canada-aeroplan-2026-09-30",
-      "sourceProgram": "ultimateRewards",
-      "destinationPartnerId": "air-canada-aeroplan",
-      "bonusPercentage": 20,
-      "effectiveRatio": "1:1.2",
-      "startDate": "2026-08-12",
-      "endDate": "2026-09-30",
-      "conditions": "Chase Ultimate Rewards transfer to Aeroplan at a 1:1 base ratio; the 20% bonus lifts it to 1:1.2 (1,000 points → 1,200 Aeroplan points). Minimum 1,000 points per transfer. Your Aeroplan name must match the name on the Chase card account. Separately, Chase Aeroplan co-brand cardmembers get a standing extra 10% on transfers of 50,000+ points (capped at 25,000 bonus points per calendar year), which stacks with this promo for up to 30% — that standing perk is a card benefit, not part of this bonus.",
-      "isTargeted": false,
-      "sourceUrls": [
-        "https://awardwallet.com/news/credit-card-transfer-bonuses/",
-        "https://frequentmiler.com/current-point-transfer-bonuses/",
-        "https://www.nerdwallet.com/travel/learn/credit-card-transfer-bonuses",
-        "https://10xtravel.com/transfer-bonuses/",
-        "https://travel-on-points.com/current-point-transfer-bonuses/"
-      ],
-      "verifiedDate": "2026-09-28"
+      "verifiedDate": "2026-10-01"
     },
     {
       "id": "thankYouPoints-avianca-lifemiles-2026-10-24",
@@ -54,9 +36,10 @@
         "https://awardwallet.com/news/credit-card-transfer-bonuses/",
         "https://frequentmiler.com/25-transfer-bonus-to-avianca-lifemiles-from-citi-thankyou-rewards-2/",
         "https://10xtravel.com/transfer-bonuses/",
-        "https://travel-on-points.com/current-point-transfer-bonuses/"
+        "https://travel-on-points.com/current-point-transfer-bonuses/",
+        "https://www.thankyou.com/partnerProgramsListing.htm"
       ],
-      "verifiedDate": "2026-09-28"
+      "verifiedDate": "2026-10-01"
     }
   ]
 }
