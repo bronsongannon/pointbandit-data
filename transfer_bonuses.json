@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-01T08:45:50-0700",
-  "source": "awardwallet.com + frequentmiler.com + nerdwallet.com + 10xtravel.com + travel-on-points.com (2026-10-01 refresh; live offers have four or more independent current sources; targeted and unmapped candidates held)",
+  "lastUpdated": "2026-10-05T09:06:21-0700",
+  "source": "awardwallet.com + frequentmiler.com + nerdwallet.com + 10xtravel.com + travel-on-points.com (2026-10-05 refresh; live offers have four or more independent current sources; targeted, conflicting, and unmapped candidates held)",
   "bonuses": [
     {
       "id": "ultimateRewards-marriott-bonvoy-2026-10-15",
@@ -40,6 +40,62 @@
         "https://www.thankyou.com/partnerProgramsListing.htm"
       ],
       "verifiedDate": "2026-10-01"
+    },
+    {
+      "id": "membershipRewards-hilton-honors-2026-10-14",
+      "sourceProgram": "membershipRewards",
+      "destinationPartnerId": "hilton-honors",
+      "bonusPercentage": 30,
+      "effectiveRatio": "1:2.6",
+      "startDate": "2026-09-01",
+      "endDate": "2026-10-14",
+      "conditions": "Public U.S. Membership Rewards transfer bonus. Transfers earn 2,600 Hilton Honors points per 1,000 Membership Rewards points. Transfers cannot be reversed; confirm your redemption before transferring.",
+      "isTargeted": false,
+      "sourceUrls": [
+        "https://awardwallet.com/news/credit-card-transfer-bonuses/",
+        "https://frequentmiler.com/current-point-transfer-bonuses/",
+        "https://www.nerdwallet.com/travel/learn/credit-card-transfer-bonuses",
+        "https://10xtravel.com/transfer-bonuses/",
+        "https://travel-on-points.com/current-point-transfer-bonuses/"
+      ],
+      "verifiedDate": "2026-10-05"
+    },
+    {
+      "id": "membershipRewards-aeromexico-club-premier-2026-10-30",
+      "sourceProgram": "membershipRewards",
+      "destinationPartnerId": "aeromexico-club-premier",
+      "bonusPercentage": 20,
+      "effectiveRatio": "1:1.2",
+      "startDate": "2026-10-01",
+      "endDate": "2026-10-30",
+      "conditions": "Public U.S. Membership Rewards transfer bonus. Transfers earn 1,920 Aeroméxico Rewards points per 1,000 Membership Rewards points. Transfers cannot be reversed; confirm your redemption before transferring.",
+      "isTargeted": false,
+      "sourceUrls": [
+        "https://awardwallet.com/news/credit-card-transfer-bonuses/",
+        "https://frequentmiler.com/current-point-transfer-bonuses/",
+        "https://www.nerdwallet.com/travel/learn/credit-card-transfer-bonuses",
+        "https://10xtravel.com/transfer-bonuses/",
+        "https://travel-on-points.com/current-point-transfer-bonuses/"
+      ],
+      "verifiedDate": "2026-10-05"
+    },
+    {
+      "id": "ventureMiles-british-airways-avios-2026-10-31",
+      "sourceProgram": "ventureMiles",
+      "destinationPartnerId": "british-airways-avios",
+      "bonusPercentage": 20,
+      "effectiveRatio": "1:1.2",
+      "startDate": "2026-10-01",
+      "endDate": "2026-10-31",
+      "conditions": "Public Capital One Miles transfer bonus. Transfers earn 1,200 British Airways Avios per 1,000 Capital One Miles. Transfers cannot be reversed; confirm your redemption before transferring.",
+      "isTargeted": false,
+      "sourceUrls": [
+        "https://awardwallet.com/news/credit-card-transfer-bonuses/",
+        "https://frequentmiler.com/current-point-transfer-bonuses/",
+        "https://10xtravel.com/transfer-bonuses/",
+        "https://travel-on-points.com/current-point-transfer-bonuses/"
+      ],
+      "verifiedDate": "2026-10-05"
     }
   ]
 }
