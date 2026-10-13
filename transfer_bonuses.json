@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-08T10:36:43-0700",
-  "source": "awardwallet.com + frequentmiler.com + nerdwallet.com + 10xtravel.com + travel-on-points.com (2026-10-08 refresh; live offers have four or more independent current sources; targeted, conflicting, tiered, and unmapped candidates held)",
+  "lastUpdated": "2026-10-12T00:00:00-0700",
+  "source": "awardwallet.com + frequentmiler.com + nerdwallet.com + 10xtravel.com + travel-on-points.com (2026-10-12 refresh; live offers have four or more independent current sources; targeted, conflicting, tiered, and unmapped candidates held)",
   "bonuses": [
     {
       "id": "ultimateRewards-marriott-bonvoy-2026-10-15",
@@ -20,7 +20,7 @@
         "https://travel-on-points.com/current-point-transfer-bonuses/",
         "https://www.chase.com/personal/credit-cards/education/basics/chase-transfer-partners-everything-you-need-to-know"
       ],
-      "verifiedDate": "2026-10-01"
+      "verifiedDate": "2026-10-12"
     },
     {
       "id": "thankYouPoints-avianca-lifemiles-2026-10-24",
@@ -39,7 +39,7 @@
         "https://travel-on-points.com/current-point-transfer-bonuses/",
         "https://www.thankyou.com/partnerProgramsListing.htm"
       ],
-      "verifiedDate": "2026-10-01"
+      "verifiedDate": "2026-10-12"
     },
     {
       "id": "membershipRewards-hilton-honors-2026-10-14",
@@ -58,7 +58,7 @@
         "https://10xtravel.com/transfer-bonuses/",
         "https://travel-on-points.com/current-point-transfer-bonuses/"
       ],
-      "verifiedDate": "2026-10-05"
+      "verifiedDate": "2026-10-12"
     },
     {
       "id": "membershipRewards-aeromexico-club-premier-2026-10-30",
@@ -77,7 +77,7 @@
         "https://10xtravel.com/transfer-bonuses/",
         "https://travel-on-points.com/current-point-transfer-bonuses/"
       ],
-      "verifiedDate": "2026-10-05"
+      "verifiedDate": "2026-10-12"
     },
     {
       "id": "membershipRewards-air-france-klm-flying-blue-2026-10-31",
@@ -96,7 +96,7 @@
         "https://10xtravel.com/transfer-partners/",
         "https://travel-on-points.com/current-point-transfer-bonuses/"
       ],
-      "verifiedDate": "2026-10-08"
+      "verifiedDate": "2026-10-12"
     },
     {
       "id": "ventureMiles-british-airways-avios-2026-10-31",
@@ -114,7 +114,7 @@
         "https://10xtravel.com/transfer-bonuses/",
         "https://travel-on-points.com/current-point-transfer-bonuses/"
       ],
-      "verifiedDate": "2026-10-05"
+      "verifiedDate": "2026-10-12"
     }
   ]
 }
