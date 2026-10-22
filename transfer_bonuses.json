@@ -3,26 +3,6 @@
   "source": "awardwallet.com + frequentmiler.com + nerdwallet.com + 10xtravel.com + travel-on-points.com (2026-10-12 refresh; live offers have four or more independent current sources; targeted, conflicting, tiered, and unmapped candidates held)",
   "bonuses": [
     {
-      "id": "ultimateRewards-marriott-bonvoy-2026-10-15",
-      "sourceProgram": "ultimateRewards",
-      "destinationPartnerId": "marriott-bonvoy",
-      "bonusPercentage": 70,
-      "effectiveRatio": "1:1.7",
-      "startDate": "2026-09-15",
-      "endDate": "2026-10-15",
-      "conditions": "Transfer 1,000 Chase Ultimate Rewards points to receive 1,700 Marriott Bonvoy points. Ends at 11:59pm ET on October 15. Bonus points may take up to 7 days to arrive. Transfers cannot be reversed; check the points price of your planned stay before transferring.",
-      "isTargeted": false,
-      "sourceUrls": [
-        "https://awardwallet.com/news/credit-card-transfer-bonuses/",
-        "https://frequentmiler.com/current-point-transfer-bonuses/",
-        "https://www.nerdwallet.com/travel/learn/credit-card-transfer-bonuses",
-        "https://10xtravel.com/transfer-bonuses/",
-        "https://travel-on-points.com/current-point-transfer-bonuses/",
-        "https://www.chase.com/personal/credit-cards/education/basics/chase-transfer-partners-everything-you-need-to-know"
-      ],
-      "verifiedDate": "2026-10-12"
-    },
-    {
       "id": "thankYouPoints-avianca-lifemiles-2026-10-24",
       "sourceProgram": "thankYouPoints",
       "destinationPartnerId": "avianca-lifemiles",
@@ -42,25 +22,6 @@
       "verifiedDate": "2026-10-12"
     },
     {
-      "id": "membershipRewards-hilton-honors-2026-10-14",
-      "sourceProgram": "membershipRewards",
-      "destinationPartnerId": "hilton-honors",
-      "bonusPercentage": 30,
-      "effectiveRatio": "1:2.6",
-      "startDate": "2026-09-01",
-      "endDate": "2026-10-14",
-      "conditions": "Public U.S. Membership Rewards transfer bonus. Transfers earn 2,600 Hilton Honors points per 1,000 Membership Rewards points. Transfers cannot be reversed; confirm your redemption before transferring.",
-      "isTargeted": false,
-      "sourceUrls": [
-        "https://awardwallet.com/news/credit-card-transfer-bonuses/",
-        "https://frequentmiler.com/current-point-transfer-bonuses/",
-        "https://www.nerdwallet.com/travel/learn/credit-card-transfer-bonuses",
-        "https://10xtravel.com/transfer-bonuses/",
-        "https://travel-on-points.com/current-point-transfer-bonuses/"
-      ],
-      "verifiedDate": "2026-10-12"
-    },
-    {
       "id": "membershipRewards-aeromexico-club-premier-2026-10-30",
       "sourceProgram": "membershipRewards",
       "destinationPartnerId": "aeromexico-club-premier",
@@ -68,7 +29,7 @@
       "effectiveRatio": "1:1.2",
       "startDate": "2026-10-01",
       "endDate": "2026-10-30",
-      "conditions": "Public U.S. Membership Rewards transfer bonus. Transfers earn 1,920 Aeroméxico Rewards points per 1,000 Membership Rewards points. Transfers cannot be reversed; confirm your redemption before transferring.",
+      "conditions": "Public U.S. Membership Rewards transfer bonus. Transfers earn 1,920 Aerom\u00e9xico Rewards points per 1,000 Membership Rewards points. Transfers cannot be reversed; confirm your redemption before transferring.",
       "isTargeted": false,
       "sourceUrls": [
         "https://awardwallet.com/news/credit-card-transfer-bonuses/",
