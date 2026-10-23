@@ -76,6 +76,24 @@
         "https://travel-on-points.com/current-point-transfer-bonuses/"
       ],
       "verifiedDate": "2026-10-22"
+    },
+    {
+      "id": "thankYouPoints-jal-mileage-bank-2026-10-24",
+      "sourceProgram": "thankYouPoints",
+      "destinationPartnerId": "jal-mileage-bank",
+      "bonusPercentage": 30,
+      "effectiveRatio": "1:1.3",
+      "startDate": "2026-09-20",
+      "endDate": "2026-10-24",
+      "conditions": null,
+      "isTargeted": false,
+      "sourceUrls": [
+        "https://awardwallet.com/news/credit-card-transfer-bonuses",
+        "https://frequentmiler.com/current-point-transfer-bonuses",
+        "https://upgradedpoints.com/news/current-credit-card-transfer-bonuses",
+        "https://point.me/insights/current-transfer-bonuses"
+      ],
+      "verifiedDate": "2026-10-22"
     }
   ]
 }
